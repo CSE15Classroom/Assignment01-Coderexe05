@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>School Result Table</title>
+</head>
+<body>
+<table border="1" width="100%" align="centre">
+<caption>School Result Table of Class'X'</caption>
+<tr align="centre">
+  <th>Subject</th>
+  <th>Marks</th>
+  <th>Grade</th>   
+</tr>
+<tr align="centre">
+  <th>Maths</th>
+  <th>99</th>
+  <th>A+</th>   
+</tr>
+<tr align="centre">
+  <th>Science</th>
+  <th>95</th>
+  <th>A+</th>   
+</tr>
+<tr align="centre">
+  <th>English</th>
+  <th>96</th>
+  <th>A+</th>   
+</tr>
+<tr align="centre">
+  <th>Hindi</th>
+  <th>89</th>
+  <th>A</th>   
+</tr>
+<tr align="centre">
+  <th>Social Studies</th>
+  <th>87</th>
+  <th>A</th>   
+</tr>
+<tr align="centre">
+<td colspan="2">Total<td>
+<td>465</td>
+</tr>
+<tr align="centre">
+<td colspan="2">Overall Grade<td>
+<td>A+</td>
+</tr>
+<tr align="centre">
+<td colspan="2">Result<td>
+<td>Passed</td>
+</tr>
+<tr align="centre">
+<td colspan="3" rowspan="2">Congratulations!!<td>
+</tr>
+</table>
+</body>
+</html>
